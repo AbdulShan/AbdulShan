@@ -2,4 +2,4 @@
 - 👀 I’m interested in anything that excites me! 
 - 🌱 I’m currently learning most of programming languages, Computer networking, Hardware etc.,
 - 💞️ I’m looking to collaborate any projects
-- 📫 How to reach me: www.instagram.com/am_shan_aks
+- 📫 How to reach me: DM Me Here
