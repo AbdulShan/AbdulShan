@@ -5,7 +5,7 @@
 - 📫 How to reach me: DM Me Here
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdulShan)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AbdulShan&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulShan&theme=chartreuse-dark&hide_border=false)<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulShan&show_icons=true&locale=en&layout=compact" alt="AbdulShan" /></p>
