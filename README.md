@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbdulShan)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulShan&theme=chartreuse-dark_border=false)<br/>
+![](![Shan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=AbdulShan&theme=dark&show_icons=true))<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulShan&show_icons=true&locale=en&layout=compact" alt="AbdulShan" /></p>
 
