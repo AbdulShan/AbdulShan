@@ -1,20 +1,71 @@
-- 👋 Hi, I’m @AbdulShan
-- 👀 I’m interested in anything that excites me! 
-- 🌱 I’m currently learning most of programming languages, Computer networking, Hardware etc.,
-- 💞️ I’m looking to collaborate any projects
-- 📫 How to reach me: DM Me Here
+<h1 align="center">Hi there, I'm Abdul Shan 👋</h1>
+<p align="center">
+  <em>Explorer | Learner | Collaborator</em>
+</p>
 
-# 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=AbdulShan)](https://github.com/AbdulShan/github-readme)
-![](https://github-readme-stats.vercel.app/api?username=AbdulShan&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulShan&theme=chartreuse-dark&hide_border=false)<br/>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulShan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false" alt="AbdulShan" /></p>
+## 🚀 About Me
 
+- 👋 Hi, I’m **@AbdulShan**
+- 👀 I’m interested in **anything that excites me!**
+- 💞️ Looking to collaborate on **any kind of project**.
+- 📫 **Reach me:** DM me here on GitHub.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbdulShan&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+---
 
+## 🛠️ Skills
+
+- **Languages:** Python, C, JavaScript, Bash, etc.
+- **Web:** HTML, CSS, React, Node.js
+- **Networking:** TCP/IP, Routing, Firewalls
+- **Hardware:** Raspberry Pi, Arduino, PC Building
+
+<em>*Always expanding my toolkit!*</em>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulShan&theme=chartreuse-dark&hide_border=false" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulShan&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulShan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AbdulShan&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdulShan&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulShan&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- 🧑‍💻 I love exploring **open-source code** and **hardware hacks**.
+- 🎮 Gaming and robotics spark my creativity.
+- 📚 Always up for learning **new tech stacks** and **innovative tools**.
+
+---
+
+## 📬 Contact
+
+- 💬 DM here on GitHub
+- 📧 https://abdulshan.github.io
+
+---
+
+<p align="center">
+  <em>Thank you for visiting! Let's build something amazing together 🚀</em>
+</p>
