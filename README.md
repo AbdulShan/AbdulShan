@@ -5,15 +5,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 👋 Hi, I’m **@AbdulShan**
-- 👀 I’m interested in **anything that excites me!**
-- 💞️ Looking to collaborate on **any kind of project**.
-- 📫 **Reach me:** DM me here on GitHub.
-
----
-
 ## 🛠️ Skills
 
 - **Languages:** Python, C, JavaScript, Bash, etc.
@@ -38,7 +29,7 @@
 
 ## 🔝 Top Contributed Repositories
 
-<p align="center">
+<p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=AbdulShan&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </p>
 
