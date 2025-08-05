@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AbdulShan&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulShan&theme=chartreuse-dark&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulShan&show_icons=true&locale=en&layout=compact" alt="AbdulShan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulShan&show_icons=true&locale=en&layout=compact&theme=&theme=chartreuse-dark&hide_border=false" alt="AbdulShan" /></p>
 
 
 ### 🔝 Top Contributed Repo
